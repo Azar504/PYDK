@@ -1,0 +1,29 @@
+{
+  "environment_name": "venv",
+  "python_version": "3.10",
+  "libs": [
+    "requests",
+    "httpx",
+    "fastapi",
+    "django",
+    "flask",
+    "sqlalchemy",
+    "pydantic",
+    "python-dotenv",
+    "uvicorn",
+    "gunicorn",
+    "celery",
+    "redis",
+    "pymongo",
+    "pytz",
+    "passlib",
+    "bcrypt",
+    "aiohttp",
+    "jinja2",
+    "pytest",
+    "loguru",
+    "black"
+  ],
+  "optimize_memory": true,
+  "parallel_install": true
+}
